@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mark (OneTwoMark)
 
-<!--
-**OneTwoMark/OneTwoMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+| Project | Repo | Description |
+|---|---|---|
+| **Your Exhibition** | https://github.com/OneTwoMark/your-exhibition | A web app that lets users explore artworks from multiple museum APIs, curate a personal exhibition, and share it with others. |
+| **Nutritional Scanner App** | https://github.com/OneTwoMark/shopping-list-scanner | A mobile app that scans food items and retrieves nutritional information. |
+| **TrekkingBuddies** | https://github.com/TrekkingBuddies | A hiking social app where users create profiles with location, skill level, and preferences, discover nearby hikers, and message them directly. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Contact
+- GitHub: https://github.com/OneTwoMark
